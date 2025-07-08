@@ -1,0 +1,8 @@
+myenv.sh
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+*.csv
+*.parquet
+*.json
